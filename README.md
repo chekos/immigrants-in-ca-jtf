@@ -1,9 +1,14 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chekos/immigrants-in-ca-jtf/master?urlpath=lab%2Ftree%2Fnotebooks%2F00_newly_arrivals_chart.ipynb)
+
+***
+
 immigrants-in-ca-jtf
 ==============================
 
-* project code: NOCODE
+* project: [Immigrants in California - JTF](https://www.ppic.org/publication/immigrants-in-california/)
 
-A repo containing the code and data to reproduce the numbers in PPIC's Immigrants in CA JTF
+
+A repo containing the code and data to reproduce the numbers in PPIC's Immigrants in California JTF
 
 Project Organization
 --------------------

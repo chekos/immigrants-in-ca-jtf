@@ -2,10 +2,7 @@
 
 ## Project Code
 
-* __NOCODE__
+* [Immigrants in California - JTF](https://www.ppic.org/publication/immigrants-in-california/)
 
-## Authors
+## Repo by
 * Sergio Sanchez <sanchez@ppic.org>
-
-## Project Contributors
-
